@@ -1,5 +1,5 @@
 # ipl-data-analysis Project
-The Indian Premier League (IPL) is one of the most popular cricket leagues globally. This project focuses on analyzing IPL match data to gain insights into teams’ and players’ performances over the years. By using data science tools like Python, Pandas, NumPy, Matplotlib, and Seaborn.
+The Indian Premier League (IPL) is one of the most popular cricket leagues globally. This project focuses on analyzing IPL match data to gain insights into teams’ and players’ performances over the years. By using data science tools like Python, Pandas, NumPy, Matplotlib, and Seaborn.The dataset used in this project covers IPL matches from 2008 to 2019.
 
 This project contains a detailed analysis of Indian Premier League (IPL) data. The report provides insights into player performance, team statistics, and various trends observed in past IPL seasons.
 
